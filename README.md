@@ -3,6 +3,10 @@
 **Aim:** Create an Android application to demonstrate the fundamental functions of the Activity Life Cycle and construct a basic User Interface using standard Android properties.
 
 This project is a fundamental exercise in understanding how an Android Activity is rendered on screen and how it transitions through various states when the user interacts with the app or the device.
+![Snackbar 1](snackbar_1.png) ![Snackbar 2](snackbar_2.png) ![Snackbar 3](snackbar_3.png)
+
+![Toast 1](toast_1.png) ![Toast 2](toast_2.png) ![Toast 3](toast_3.png)
+
 
 ## 📱 Features Implemented
 
